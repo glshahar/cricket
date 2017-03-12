@@ -1,0 +1,21 @@
+* {
+padding:0px;
+margin:0px;
+}
+
+header,section,nav,aside,footer,main, article,a {
+display:block;
+width: 100%;
+}
+
+header {
+}
+
+body { 
+}
+
+a {
+}
+
+#logo {
+}
